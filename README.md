@@ -4,6 +4,18 @@
 
 This project involves analyzing a weather dataset to answer a series of questions using both Python and SQL. The dataset includes various weather-related parameters such as wind speed, visibility, relative humidity, and weather conditions.
 
+## Dataset
+
+The dataset used for this analysis includes the following columns:
+- `Date/Time`: Date and time of the observation
+- `Temp_c`: Temperature in Celsius
+- `Dew point_Temp_C`: Dewpoint temperature in Celsius
+- `Rel_Hum_%`: Relative humidity percentage
+- `Wind Speed_km/h`: Wind speed in km/hr
+- `Visibility_km`: Visibility in km
+- `Press_kPa`: Atmospheric pressure in kPa
+- `Weather`: Describes the weather conditions (e.g., Clear, Snow, etc.)
+  
 ## Tasks Completed
 
 1. **Identified Records with Clear Weather:**
@@ -37,10 +49,6 @@ This project involves analyzing a weather dataset to answer a series of question
 
 - **Python:** For data manipulation and analysis using the pandas library (All tasks).
 - **SQL:** For querying the dataset and performing aggregation and filtering operations (Tasks 4, 5, 8, and 9).
-
-## Dataset
-
-The dataset used for this analysis includes columns for date/time, atmospheric pressure, temperature, dewpoint temperature, weather, wind speed, visibility, and relative humidity. Ensure that the dataset is loaded properly before executing the queries and analysis.
 
 ## Instructions
 

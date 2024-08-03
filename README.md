@@ -35,8 +35,8 @@ This project involves analyzing a weather dataset to answer a series of question
 
 ## Tools Used
 
-- **Python:** For data manipulation and analysis using the pandas library.
-- **SQL:** For querying the dataset and performing aggregation and filtering operations.
+- **Python:** For data manipulation and analysis using the pandas library (All tasks).
+- **SQL:** For querying the dataset and performing aggregation and filtering operations (Tasks 4, 5, 8, and 9).
 
 ## Dataset
 
